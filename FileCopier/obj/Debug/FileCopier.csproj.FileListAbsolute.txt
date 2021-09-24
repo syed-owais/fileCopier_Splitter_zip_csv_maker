@@ -1,0 +1,76 @@
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\FileCopier.exe.config
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\FileCopier.exe
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\FileCopier.pdb
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.csprojAssemblyReference.cache
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.Form1.resources
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.Properties.Resources.resources
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.GenerateResource.cache
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.CoreCompileInputs.cache
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.exe
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.pdb
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\System.IO.Compression.dll
+D:\Syed Owais\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.CopyComplete
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.mshtml.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\System.Net.Http.Formatting.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\System.Web.Http.dll
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Common.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Controls.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\System.Net.Http.Formatting.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\System.Web.Http.xml
+D:\Syed Owais\FileCopier\FileCopier\bin\Debug\Microsoft.WITDataStore.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\FileCopier.exe.config
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\FileCopier.exe
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\FileCopier.pdb
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\System.IO.Compression.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.mshtml.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\System.Net.Http.Formatting.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\System.Web.Http.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Controls.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Common.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Controls.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.TeamFoundation.Diff.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\System.Net.Http.Formatting.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\System.Web.Http.xml
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\bin\Debug\Microsoft.WITDataStore.dll
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.csprojAssemblyReference.cache
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.Form1.resources
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.Properties.Resources.resources
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.GenerateResource.cache
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.CoreCompileInputs.cache
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.CopyComplete
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.exe
+D:\ITL\ITL_PRG\metro\Metrosource\FileCopier\FileCopier\obj\Debug\FileCopier.pdb
